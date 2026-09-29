@@ -1,0 +1,14 @@
+{
+  "name": "NIHONGO MISSION — Japanese for Mission",
+  "short_name": "Nihongo Mission",
+  "description": "Module A: CONNECT — Weeks 1–8 interactive Japanese missionary formation course.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f7f3e8",
+  "theme_color": "#24375f",
+  "icons": [
+    {"src":"icon-192.png","sizes":"192x192","type":"image/png"},
+    {"src":"icon-512.png","sizes":"512x512","type":"image/png"}
+  ]
+}
